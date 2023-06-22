@@ -94,3 +94,21 @@ footer {
     margin-left: 100px;
 }
 
+@media (max-width:740px){
+    .principal {
+        flex-direction: column;
+        
+    }
+    .div {
+        padding-bottom: 40px;
+    }
+
+    .texto__principal{
+        padding: 10px 5px 20px 5px;
+        margin: 10px;
+        font-size: 20px;
+    }
+
+    }
+
+
